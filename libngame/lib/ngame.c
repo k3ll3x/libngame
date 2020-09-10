@@ -1,8 +1,4 @@
 #include "ngame.h"
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
-#include <ncurses.h>
 
 int initcolors(){
 	if(has_colors()==FALSE){

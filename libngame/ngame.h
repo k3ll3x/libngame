@@ -1,6 +1,9 @@
 #ifndef NGAME_H_
 #define NGAME_H_
 
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 #include <ncurses.h>
 
 //initialize essentials of ncurses:
